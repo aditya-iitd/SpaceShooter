@@ -7,3 +7,5 @@
 * **iPhone 7 Plus (screen parameters are currently hard-coded)**
 
 ## Game Preview
+
+https://user-images.githubusercontent.com/26283007/32025621-984ab796-b9fe-11e7-8f9d-0ae663c672c2.gif
